@@ -22,7 +22,7 @@
         "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8", "io_wispforest_endec_netty",
         "org_jetbrains_kotlinx_kotlinx-datetime-jvm", "io_wispforest_endec_jankson",
         "org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm", "mainchit-mod",
-        "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+        "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm", "crawl",
         "org_jetbrains_kotlinx_kotlinx-serialization-json-jvm", "com.sonicether.soundphysics",
         "org_quiltmc_parsers_gson", "org_quiltmc_parsers_json", "paginatedadvancements",
         "placeholder-api", "polytone", "puzzle", "puzzle-base", "puzzle-gui", "puzzle-models",
