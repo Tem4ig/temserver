@@ -18,7 +18,7 @@
         "org_hid4java_hid4java", "org_ini4j_ini4j", "org_jetbrains_kotlin_kotlin-reflect",
         "org_jetbrains_kotlin_kotlin-stdlib", "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
         "org_jetbrains_kotlin_kotlin-stdlib-jdk8", "org_jetbrains_kotlinx_atomicfu-jvm",
-        "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+        "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm", "display_case",
         "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8", "io_wispforest_endec_netty",
         "org_jetbrains_kotlinx_kotlinx-datetime-jvm", "io_wispforest_endec_jankson",
         "org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm", "mainchit-mod",
