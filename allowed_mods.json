@@ -7,7 +7,7 @@
         "cubes-without-borders", "debugify", "dev_isxander_libsdl4j", "distanthorizons",
         "dynamic_fps", "e4mc_minecraft", "entity_model_features", "entity_texture_features",
         "entityculling", "fabric-api", "fabricloader", "fabricskyboxes", "fabrishot",
-        "fastquit", "ferritecore", "freecam", "fsb-interop", "gammautils",
+        "fastquit", "ferritecore", "freecam", "fsb-interop", "gammautils", "replaymod",
         "immediatelyfast", "indium", "io_github_douira_glsl-transformer", "iris",
         "isxander-main-menu-credits", "itemswapper", "java", "languagereload", "litematica",
         "lithium", "malilib", "midnightlib", "minecraft", "mixinextras", "mixinsquared",
